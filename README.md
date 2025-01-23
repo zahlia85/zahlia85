@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello! I'm Zahlia Roszaharni 👋
 
-<!--
-**zahlia85/zahlia85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm a passionate Data Analyst/Scientist with a strong interest in discovering insights and solving complex problems through data. I specialize in working with Python, machine learning, and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+
+- Building Machine Learning models in Python to solve real-world problems.
+- Analyzing and managing data efficiently with SQL (SQLite).
+- Creating impactful data visualizations using Matplotlib and Seaborn.
+- Optimizing data workflows with Pandas and NumPy.
+
+### Projects
+
+Check out my portfolio and see the projects I've worked on: [My Portfolio](#)
+
+### Skills and Tools
+
+- **Languages**: Python, SQL
+- **Libraries**: Pandas, NumPy, Scikit-learn
+- **Data Visualization**: Matplotlib, Seaborn, Power BI
+
+### Let's Connect!
+
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: [your-github](https://github.com/your-github)
+
