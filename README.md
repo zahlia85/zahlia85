@@ -23,6 +23,6 @@ Check out my portfolio and see the projects I've worked on: [My Portfolio](#)
 
 ### Let's Connect!
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [your-github](https://github.com/your-github)
+- **Email**: [zahlia.roszaharni@gmail.com](zahlia.roszaharni@gmail.com)
+- **GitHub**: [ZahliaRoszaharni](https://github.com/zahlia85)
 
