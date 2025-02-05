@@ -11,9 +11,6 @@ I'm a passionate Data Analyst/Scientist with a strong interest in discovering in
 - Creating impactful data visualizations using Matplotlib and Seaborn.
 - Optimizing data workflows with Pandas and NumPy.
 
-### Projects
-
-Check out my portfolio and see the projects I've worked on: [My Portfolio](https://github.com/zahlia85/data-portfolio_test)
 
 ### Skills and Tools
 
